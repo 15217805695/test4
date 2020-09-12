@@ -1,5 +1,3 @@
-ibjhbjkask
-jhsbfjs
-h
-dhdh
-jjdh
+<?php
+
+echo "ababa";

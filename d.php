@@ -1,3 +1,3 @@
-jshbsd
-hshdbb
-ddddc
+<?php
+
+echo "abao";
